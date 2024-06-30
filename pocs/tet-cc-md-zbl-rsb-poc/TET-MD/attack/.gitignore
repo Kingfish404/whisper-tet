@@ -1,0 +1,10 @@
+*.out
+
+.vscode
+.idea
+
+__pycache__
+
+PHYSICAL_ADDRESS_OF_SECRET
+leak
+secret
